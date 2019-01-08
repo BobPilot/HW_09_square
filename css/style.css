@@ -1,0 +1,13 @@
+#sq-1{
+    width: 502px;
+    height: 402px;
+    background: white;
+    border: blueviolet solid 2px;
+    position: relative;
+}
+
+#sq-1 > img {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
